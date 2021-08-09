@@ -1,29 +1,7 @@
-# shopping-cart
+### 步骤
 
-## Project setup
-```
-npm install
-```
+- 环境：vue-cli3         node 8.10+
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- 进入项目后 执行 npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 执行 npm run serve
